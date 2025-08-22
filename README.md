@@ -17,7 +17,7 @@ This project was created for practice and showcases the basic structure of a mod
    ```bash
    git clone https://github.com/samarth8604/Project1Git.git
    
-Check out the project here: [Zomato Clone](https://zomato-clone-samarth.netlify.com)
+Check out the project here: [Zomato Clone](https://zomato-clone-samarth.netlify.app/)
 
 
 
